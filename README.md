@@ -1,4 +1,6 @@
 # CARSHALES-DASHBOARD
+![Screenshot 2024-08-24 230840](https://github.com/user-attachments/assets/3e5ee5ff-d
+b95-4907-a0d6-616df8e7c59a)
 
 The dashboard titled "CAR SALES DASHBOARD" provides a visual analysis of various aspects related to car sales. Here is a breakdown of the different sections:
 
